@@ -1,0 +1,22 @@
+{
+  "name": "Tether",
+  "symbol": "USDT",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "Unofficial implementation of Tether USDT with flash loan capabilities on Polygon.",
+  "website": "https://tether.to",
+  "explorer": "https://polygonscan.com/token/0x5c9eBbFe861211780fac95b41c04f14D69eA1d62",
+  "status": "active",
+  "id": "0x5c9eBbFe861211780fac95b41c04f14D69eA1d62",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/tether_to"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/yourgithub/tether-assets"
+    }
+  ],
+  "tags": ["stablecoin", "flash-loans", "defi"]
+}
