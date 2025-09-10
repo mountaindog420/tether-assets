@@ -1,0 +1,21 @@
+{
+  "name": "FlashUSD Token List",
+  "logoURI": "https://mountaindog420.github.io/tether-assets/logo.png",
+  "keywords": ["flash-loans", "polygon", "stablecoin"],
+  "timestamp": "2025-09-10T18:41:00+03:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0x5c9eBbFe861211780fac95b41c04f14D69eA1d62",
+      "name": "FlashUSD",
+      "symbol": "FUSD",
+      "decimals": 18,
+      "logoURI": "https://mountaindog420.github.io/tether-assets/logo.png"
+    }
+  ]
+}

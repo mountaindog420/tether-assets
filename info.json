@@ -1,0 +1,18 @@
+{
+  "name": "FlashUSD",
+  "symbol": "FUSD",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "Experimental stablecoin implementation with flash loan capabilities on Polygon. Not affiliated with Tether Ltd.",
+  "website": "https://github.com/mountaindog420/tether-assets",
+  "explorer": "https://polygonscan.com/token/0x5c9eBbFe861211780fac95b41c04f14D69eA1d62",
+  "status": "active",
+  "id": "0x5c9eBbFe861211780fac95b41c04f14D69eA1d62",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/mountaindog420/tether-assets"
+    }
+  ],
+  "tags": ["experimental", "flash-loans", "polygon"]
+}
